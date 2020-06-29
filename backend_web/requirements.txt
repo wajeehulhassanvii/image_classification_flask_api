@@ -1,0 +1,7 @@
+Flask
+pymongo
+flask_restful
+bcrypt
+numpy
+tensorflow>=1.14,<1.15
+requests
